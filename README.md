@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação
+## 🚀 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,lua)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🛠️ Tools and Tecnologies
 [![My Skills](https://skillicons.dev/icons?i=vscode,github)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
+## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldossantosmartins05@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
 [![Linkedin: Ellen](https://img.shields.io/badge/-Gabriel_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-martins-07a0b22b1/)](https://www.linkedin.com/in/devellendias/)
