@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-gabrieldossantosmartins05@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieldossantosmartins05@gmail.com)](mailto:gabrieldossantosmartins05@gmail.com)
-[![Linkedin: Gabriel](https://img.shields.io/badge/-Gabriel_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-martins-07a0b22b1/)](https://www.linkedin.com/in/devellendias/)
+[![Linkedin: Gabriel](https://img.shields.io/badge/-Gabriel_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gabriel-martins-07a0b22b1/)](https://www.linkedin.com/in/gabriel-martins-07a0b22b1/)
 
 
 ![thek1llerbadger GitHub stats](https://github-readme-stats.vercel.app/api?username=thek1llerbadger&show_icons=true&theme=radical)
