@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thek1llerbadger
 - 👀 I’m interested in creating small codes
 - 🌱 I’m currently learning Lua & JS
+- 🤓 Currently working on a school project for a "science fair", using CSS, HTML and JS. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... don't... yet.
 
